@@ -1,0 +1,1 @@
+export const randomize_array = (array: string[]) => [...array].sort(() => Math.random() - 0.5)
