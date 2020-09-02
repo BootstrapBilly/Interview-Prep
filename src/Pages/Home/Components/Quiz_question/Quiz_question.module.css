@@ -1,0 +1,23 @@
+.container {
+    background-color: white;
+    filter: drop-shadow(3px 1px 4px rgba(128, 128, 128, 0.308));
+    padding: 15px 25px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    min-width: 280px;
+}
+
+.title{
+    padding: 0;
+    margin: 0;
+    font-size: 24px;
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+    font-weight: 100;
+}
+
+.answers_container{
+    margin: 15px 0;
+}

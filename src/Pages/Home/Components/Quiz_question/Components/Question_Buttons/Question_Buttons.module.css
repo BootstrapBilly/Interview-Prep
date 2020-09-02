@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.button{
+    height: 35px;
+    width: 100px;
+    font-size: 16px;
+    outline: none;
+    border:none;
+}
